@@ -1,8 +1,6 @@
 {
   "samsung": {
-    "barchart_user": {
       "user": "int",
       "per_hour": "int",
     }
-  }
 }
