@@ -1,8 +1,8 @@
 {
   "samsung": {
-    barchart_user: {
-      user: int,
-      per_hour: int,
+    "barchart_user": {
+      "user": "int",
+      "per_hour": "int",
     }
   }
 }
